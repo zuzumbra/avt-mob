@@ -3,7 +3,7 @@ public class MainClass {
     private static String class_string = "Hello, world";
 
     public int getLocalNumber() {
-        return 14;
+        return 10;
     }
 
     public static int getClassNumber() {
